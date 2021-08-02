@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetsar" alt="mehmetsar" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis via varient tools**
+- 🔭 I’m currently working on **Data Analysis via variant tools**
 
 - 🌱 I’m currently learning **geopandas, Regex, R**
 
